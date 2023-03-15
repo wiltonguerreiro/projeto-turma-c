@@ -2,7 +2,7 @@
 
 ---
 
-- Dados Pessoais
+## Dados Pessoais
 
 CPF: XXX XXX XXX XX
 
