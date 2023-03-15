@@ -5,4 +5,4 @@
 ## Experiencia
 
 - Aluno. Unimar
-back-end C#, SQL, Python
+- Back-end C#, SQL, Python
