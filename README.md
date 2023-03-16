@@ -13,6 +13,8 @@ IDADE: XX
 
 CEL: XX X XXXX XXXX
 
+Estado Civil: XXXXXXXX
+
 ## Experiencia
 
 - Aluno. Unimar
