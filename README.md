@@ -25,7 +25,7 @@ Estado Civil: XXXXXXXX
 
 - Python
 
-- PostGreSQL
+- Azure
 
 ---
 
