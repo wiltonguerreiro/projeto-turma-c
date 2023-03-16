@@ -4,8 +4,16 @@
 
 ## Experiencia
 
+# BACK-END
+
 - Aluno. Unimar
-- Back-end C#, SQL, PostGreSQL, Python
-- Junior Dev
+ 
+- C#, 
+
+- SQL
+ 
+- PostGreSQL
+
+- Python
 
 ---
