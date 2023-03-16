@@ -16,10 +16,16 @@ CEL: XX X XXXX XXXX
 Estado Civil: XXXXXXXX
 
 ## Experiencia
+# BACK-END
 
 - Aluno. Unimar
-- Back-end C#, SQL, PostGreSQL, Python
-- Junior Dev
+- C#
+
+- SQL
+
+- Python
+
+- PostGreSQL
 
 ---
 
